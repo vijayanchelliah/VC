@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijayanchelliah
+- 👋 Hi, I am @VC
 - 👀 I’m interested in BIM, Digital Twin, and Construction Digitalization
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Infrastructure Planning and Design
